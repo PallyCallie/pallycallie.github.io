@@ -4,7 +4,7 @@ email: pallycallie@gmail.com
 url: https://pallycallie.github.io
 description: "Meet PallyCallie! The happiest cutest tennis penguin VTuber. You can find him on Twitch, Twitter, YouTube, Instagram, TikTok, and many other socials!"
 keywords: "PallyCallie,VTuber,Penguin VTuber,Penguin,Penguin Content Creator,VTuber Website,Twitch,Twitter,YouTube,Instagram,TikTok,YouTuber,Content Creator"
-skills: "Your Happiest Cutest Pengu VTuber~!"
+skills: "Your Happiest Cutest Pengu VTuber!"
 meta_author: Callie Pally
 
 # Google webmaster tools
@@ -35,7 +35,7 @@ footer:
   copyright: PallyCallie
   #location: Texas
   #social: Around the Web
-  credits: PallyCallie (I made this)
+  credits: PallyCallie
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
